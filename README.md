@@ -66,7 +66,7 @@ To get started, go through each of the script filters and scripts and do the fol
 
 ## Disclaimer
 
-I'm a noob and did this to learn a little bit about shell scripts. The workflow is functional on my Mac, but it can certainly be improved. If you encounter any problems or have suggestions, please use this repository's issue tracker.
+I'm a noob and did this to learn a little bit about shell scripts. The workflow is functional on my Mac, but it can certainly be improved. If you encounter any problems or have suggestions, please use [this repository's issue tracker](https://github.com/frederikvoigt/mrpoole/issues).
 
 ## Acknowledgements
 
