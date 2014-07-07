@@ -84,4 +84,4 @@ I'm a noob and did this to learn a little bit about shell scripts. The workflow 
 * Mr. Poole now uses variables for user dependent values throughout all scripts and script filters to facilitate customization
 
 ## Download
-https://dl.dropboxusercontent.com/u/1767984/Mr.%20Poole.alfredworkflow
+https://github.com/frederikvoigt/mrpoole
