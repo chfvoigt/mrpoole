@@ -2,7 +2,7 @@
 
 ## Overview
 
-Mr. Poole is a workflow for Jekyll sites. It tries to take the drudgery out of running a static site and allows you to...
+Mr. Poole is an [Alfred.app](http://www.alfredapp.com) workflow for [Jekyll](http://jekyllrb.com) sites. It tries to take the drudgery out of running a static site and allows you to...
  
 * create, open and publish drafts
 * open existing posts for editing
