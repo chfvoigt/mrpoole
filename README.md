@@ -39,7 +39,7 @@ Mr. Poole is an [Alfred.app](http://www.alfredapp.com) workflow for [Jekyll](htt
 
 *Develop*: Does the same as *serve*, but additionally opens the site folder in Sublime Text.
 
-## Prerequisites
+## Requirements
 
 To use this workflow with only the modifications listed in the next section, you need to have...
 
