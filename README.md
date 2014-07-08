@@ -75,6 +75,13 @@ I'm a noob and did this to learn a little bit about shell scripts. The workflow 
 
 ## Changelog
 
+### v.5
+
+* renamed and shortened keywords
+* changed action descriptions
+* changed "blog" to "site" throughout the workflow
+* corrected typos
+
 ### v.4
 
 * renamed keywords to better fit my workflow
